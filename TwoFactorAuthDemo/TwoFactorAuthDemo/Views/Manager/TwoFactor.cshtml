@@ -1,0 +1,22 @@
+﻿@model TwoFactorAuthDemo.Controllers.TwoFactorViewModel
+@{
+    ViewData["Title"] = "Two-Factor Authentication";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form asp-action="Toggle2fa" method="post">
+    <button type="submit" class="btn btn-primary">
+        @(Model.Is2faEnabled ? "Disable 2FA" : "Enable 2FA")
+    </button>
+</form>
+
+<div class="card" style="width: 18rem;">
+    @if (Model.Is2faEnabled && !string.IsNullOrEmpty(Model.QrCodeImageUrl))
+    {
+        <h3>Scan this QR code with your authenticator app:</h3>
+        <img src="@Model.QrCodeImageUrl" alt="QR Code" />
+        <p>Once scanned, your app will generate 6-digit codes every 30 seconds.</p>
+    }
+</div>
+

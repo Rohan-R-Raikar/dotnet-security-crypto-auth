@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Rohan\\Study Projects\\TwoFactorAuthDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C589DA9-8658-424B-B7F9-034F0B954F53}|TwoFactorAuthDemo\\TwoFactorAuthDemo.csproj|d:\\rohan\\study projects\\twofactorauthdemo\\twofactorauthdemo\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C589DA9-8658-424B-B7F9-034F0B954F53}|TwoFactorAuthDemo\\TwoFactorAuthDemo.csproj|solutionrelative:twofactorauthdemo\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C589DA9-8658-424B-B7F9-034F0B954F53}|TwoFactorAuthDemo\\TwoFactorAuthDemo.csproj|d:\\rohan\\study projects\\twofactorauthdemo\\twofactorauthdemo\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C589DA9-8658-424B-B7F9-034F0B954F53}|TwoFactorAuthDemo\\TwoFactorAuthDemo.csproj|solutionrelative:twofactorauthdemo\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C589DA9-8658-424B-B7F9-034F0B954F53}|TwoFactorAuthDemo\\TwoFactorAuthDemo.csproj|d:\\rohan\\study projects\\twofactorauthdemo\\twofactorauthdemo\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C589DA9-8658-424B-B7F9-034F0B954F53}|TwoFactorAuthDemo\\TwoFactorAuthDemo.csproj|solutionrelative:twofactorauthdemo\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C589DA9-8658-424B-B7F9-034F0B954F53}|TwoFactorAuthDemo\\TwoFactorAuthDemo.csproj|d:\\rohan\\study projects\\twofactorauthdemo\\twofactorauthdemo\\controllers\\managercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C589DA9-8658-424B-B7F9-034F0B954F53}|TwoFactorAuthDemo\\TwoFactorAuthDemo.csproj|solutionrelative:twofactorauthdemo\\controllers\\managercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C589DA9-8658-424B-B7F9-034F0B954F53}|TwoFactorAuthDemo\\TwoFactorAuthDemo.csproj|d:\\rohan\\study projects\\twofactorauthdemo\\twofactorauthdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C589DA9-8658-424B-B7F9-034F0B954F53}|TwoFactorAuthDemo\\TwoFactorAuthDemo.csproj|solutionrelative:twofactorauthdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\Rohan\\Study Projects\\TwoFactorAuthDemo\\TwoFactorAuthDemo\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "TwoFactorAuthDemo\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "D:\\Rohan\\Study Projects\\TwoFactorAuthDemo\\TwoFactorAuthDemo\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "TwoFactorAuthDemo\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-20T08:05:16.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "D:\\Rohan\\Study Projects\\TwoFactorAuthDemo\\TwoFactorAuthDemo\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "TwoFactorAuthDemo\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "D:\\Rohan\\Study Projects\\TwoFactorAuthDemo\\TwoFactorAuthDemo\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "TwoFactorAuthDemo\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAIwGkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T08:00:59.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Rohan\\Study Projects\\TwoFactorAuthDemo\\TwoFactorAuthDemo\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "TwoFactorAuthDemo\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "D:\\Rohan\\Study Projects\\TwoFactorAuthDemo\\TwoFactorAuthDemo\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "TwoFactorAuthDemo\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-20T08:03:53.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManagerController.cs",
+              "DocumentMoniker": "D:\\Rohan\\Study Projects\\TwoFactorAuthDemo\\TwoFactorAuthDemo\\Controllers\\ManagerController.cs",
+              "RelativeDocumentMoniker": "TwoFactorAuthDemo\\Controllers\\ManagerController.cs",
+              "ToolTip": "D:\\Rohan\\Study Projects\\TwoFactorAuthDemo\\TwoFactorAuthDemo\\Controllers\\ManagerController.cs",
+              "RelativeToolTip": "TwoFactorAuthDemo\\Controllers\\ManagerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T07:03:55.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Rohan\\Study Projects\\TwoFactorAuthDemo\\TwoFactorAuthDemo\\Program.cs",
+              "RelativeDocumentMoniker": "TwoFactorAuthDemo\\Program.cs",
+              "ToolTip": "D:\\Rohan\\Study Projects\\TwoFactorAuthDemo\\TwoFactorAuthDemo\\Program.cs",
+              "RelativeToolTip": "TwoFactorAuthDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T06:18:33.015Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
