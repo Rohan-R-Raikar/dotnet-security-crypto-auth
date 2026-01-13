@@ -1,0 +1,46 @@
+﻿@page
+@model ExternalLoginModel
+@{
+    ViewData["Title"] = "Register with External Account";
+}
+
+<div class="container">
+    <div class="row justify-content-center align-items-center min-vh-100">
+        <div class="col-md-5 col-lg-4">
+            <div class="card shadow-sm">
+                <div class="card-body">
+                    <h1 class="card-title text-center mb-3">@ViewData["Title"]</h1>
+
+                    <h6 class="text-center text-muted mb-3" id="external-login-title">
+                        Associate your @Model.ProviderDisplayName account.
+                    </h6>
+
+                    <p class="text-info text-center" id="external-login-description">
+                        You've successfully authenticated with <strong>@Model.ProviderDisplayName</strong>.
+                        Please enter an email address for this site below and click Register to finish logging in.
+                    </p>
+
+                    <form asp-page-handler="Confirmation" asp-route-returnUrl="@Model.ReturnUrl" method="post">
+                        <div asp-validation-summary="ModelOnly" class="text-danger mb-2" role="alert"></div>
+
+                        <div class="form-floating mb-3">
+                            <input asp-for="Input.Email" class="form-control" autocomplete="email" placeholder="Please enter your email." />
+                            <label asp-for="Input.Email" class="form-label">Email</label>
+                            <span asp-validation-for="Input.Email" class="text-danger"></span>
+                        </div>
+
+                        <button type="submit" class="w-100 btn btn-primary mb-3">Register</button>
+                    </form>
+
+                    <div class="text-center">
+                        <a asp-page="./Login" class="btn btn-link">Back to Login</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

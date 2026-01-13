@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "OpenIDConnectOIDC.Controllers.ApiControllers.AuthApiController",
+    "Method": "GoogleLogin",
+    "RelativePath": "api/AuthApi/google",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "OpenIDConnectOIDC.Controllers.ApiControllers.GoogleLoginRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OpenIDConnectOIDC.Controllers.ApiControllers.PincodeController",
+    "Method": "GetPincodeInfo",
+    "RelativePath": "api/Pincode/{pincode}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pincode",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
