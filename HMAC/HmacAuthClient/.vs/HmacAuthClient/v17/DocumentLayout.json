@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Rohan\\Study Projects\\HmacAuthClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{429BCC0C-F17F-46B8-9725-4ECD04C427ED}|HmacAuthClient\\HmacAuthClient.csproj|d:\\rohan\\study projects\\hmacauthclient\\hmacauthclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{429BCC0C-F17F-46B8-9725-4ECD04C427ED}|HmacAuthClient\\HmacAuthClient.csproj|solutionrelative:hmacauthclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Rohan\\Study Projects\\HmacAuthClient\\HmacAuthClient\\Program.cs",
+              "RelativeDocumentMoniker": "HmacAuthClient\\Program.cs",
+              "ToolTip": "D:\\Rohan\\Study Projects\\HmacAuthClient\\HmacAuthClient\\Program.cs",
+              "RelativeToolTip": "HmacAuthClient\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T07:20:29.56Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

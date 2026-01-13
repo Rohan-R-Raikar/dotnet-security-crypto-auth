@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Rohan\\Study Projects\\HmacAuthServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F6BDB7E-52DE-4E2A-8248-04018C4A6F1B}|HmacAuthServer\\HmacAuthServer.csproj|d:\\rohan\\study projects\\hmacauthserver\\hmacauthserver\\controllers\\encryptcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F6BDB7E-52DE-4E2A-8248-04018C4A6F1B}|HmacAuthServer\\HmacAuthServer.csproj|solutionrelative:hmacauthserver\\controllers\\encryptcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F6BDB7E-52DE-4E2A-8248-04018C4A6F1B}|HmacAuthServer\\HmacAuthServer.csproj|d:\\rohan\\study projects\\hmacauthserver\\hmacauthserver\\controllers\\decryptcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F6BDB7E-52DE-4E2A-8248-04018C4A6F1B}|HmacAuthServer\\HmacAuthServer.csproj|solutionrelative:hmacauthserver\\controllers\\decryptcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F6BDB7E-52DE-4E2A-8248-04018C4A6F1B}|HmacAuthServer\\HmacAuthServer.csproj|d:\\rohan\\study projects\\hmacauthserver\\hmacauthserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6F6BDB7E-52DE-4E2A-8248-04018C4A6F1B}|HmacAuthServer\\HmacAuthServer.csproj|solutionrelative:hmacauthserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F6BDB7E-52DE-4E2A-8248-04018C4A6F1B}|HmacAuthServer\\HmacAuthServer.csproj|d:\\rohan\\study projects\\hmacauthserver\\hmacauthserver\\models\\decryptrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F6BDB7E-52DE-4E2A-8248-04018C4A6F1B}|HmacAuthServer\\HmacAuthServer.csproj|solutionrelative:hmacauthserver\\models\\decryptrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F6BDB7E-52DE-4E2A-8248-04018C4A6F1B}|HmacAuthServer\\HmacAuthServer.csproj|d:\\rohan\\study projects\\hmacauthserver\\hmacauthserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F6BDB7E-52DE-4E2A-8248-04018C4A6F1B}|HmacAuthServer\\HmacAuthServer.csproj|solutionrelative:hmacauthserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F6BDB7E-52DE-4E2A-8248-04018C4A6F1B}|HmacAuthServer\\HmacAuthServer.csproj|d:\\rohan\\study projects\\hmacauthserver\\hmacauthserver\\models\\encryptrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F6BDB7E-52DE-4E2A-8248-04018C4A6F1B}|HmacAuthServer\\HmacAuthServer.csproj|solutionrelative:hmacauthserver\\models\\encryptrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DecryptRequest.cs",
+              "DocumentMoniker": "D:\\Rohan\\Study Projects\\HmacAuthServer\\HmacAuthServer\\Models\\DecryptRequest.cs",
+              "RelativeDocumentMoniker": "HmacAuthServer\\Models\\DecryptRequest.cs",
+              "ToolTip": "D:\\Rohan\\Study Projects\\HmacAuthServer\\HmacAuthServer\\Models\\DecryptRequest.cs",
+              "RelativeToolTip": "HmacAuthServer\\Models\\DecryptRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T04:55:16.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EncryptRequest.cs",
+              "DocumentMoniker": "D:\\Rohan\\Study Projects\\HmacAuthServer\\HmacAuthServer\\Models\\EncryptRequest.cs",
+              "RelativeDocumentMoniker": "HmacAuthServer\\Models\\EncryptRequest.cs",
+              "ToolTip": "D:\\Rohan\\Study Projects\\HmacAuthServer\\HmacAuthServer\\Models\\EncryptRequest.cs",
+              "RelativeToolTip": "HmacAuthServer\\Models\\EncryptRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T04:50:57.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Rohan\\Study Projects\\HmacAuthServer\\HmacAuthServer\\Program.cs",
+              "RelativeDocumentMoniker": "HmacAuthServer\\Program.cs",
+              "ToolTip": "D:\\Rohan\\Study Projects\\HmacAuthServer\\HmacAuthServer\\Program.cs",
+              "RelativeToolTip": "HmacAuthServer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T04:26:22.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Rohan\\Study Projects\\HmacAuthServer\\HmacAuthServer\\appsettings.json",
+              "RelativeDocumentMoniker": "HmacAuthServer\\appsettings.json",
+              "ToolTip": "D:\\Rohan\\Study Projects\\HmacAuthServer\\HmacAuthServer\\appsettings.json",
+              "RelativeToolTip": "HmacAuthServer\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-18T04:26:19.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DecryptController.cs",
+              "DocumentMoniker": "D:\\Rohan\\Study Projects\\HmacAuthServer\\HmacAuthServer\\Controllers\\DecryptController.cs",
+              "RelativeDocumentMoniker": "HmacAuthServer\\Controllers\\DecryptController.cs",
+              "ToolTip": "D:\\Rohan\\Study Projects\\HmacAuthServer\\HmacAuthServer\\Controllers\\DecryptController.cs",
+              "RelativeToolTip": "HmacAuthServer\\Controllers\\DecryptController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T07:51:25.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EncryptController.cs",
+              "DocumentMoniker": "D:\\Rohan\\Study Projects\\HmacAuthServer\\HmacAuthServer\\Controllers\\EncryptController.cs",
+              "RelativeDocumentMoniker": "HmacAuthServer\\Controllers\\EncryptController.cs",
+              "ToolTip": "D:\\Rohan\\Study Projects\\HmacAuthServer\\HmacAuthServer\\Controllers\\EncryptController.cs",
+              "RelativeToolTip": "HmacAuthServer\\Controllers\\EncryptController.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAIwCAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T07:50:48.265Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

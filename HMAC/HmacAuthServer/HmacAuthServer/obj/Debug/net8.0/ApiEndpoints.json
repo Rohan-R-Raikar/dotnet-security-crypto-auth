@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "HmacAuthServer.Controllers.DecryptController",
+    "Method": "DecryptWithHeaderAndBody",
+    "RelativePath": "api/Decrypt/decryptwithHeaderAndBody",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "HmacAuthServer.Models.DecryptRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HmacAuthServer.Controllers.EncryptController",
+    "Method": "DecryptMassge",
+    "RelativePath": "api/Encrypt/decrypt",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HmacAuthServer.Controllers.EncryptController",
+    "Method": "Encrypt",
+    "RelativePath": "api/Encrypt/encrypt",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "HmacAuthServer.Models.EncryptRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

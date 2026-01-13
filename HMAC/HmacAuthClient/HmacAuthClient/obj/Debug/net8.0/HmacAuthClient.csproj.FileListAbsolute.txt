@@ -1,0 +1,14 @@
+D:\Rohan\Study Projects\HmacAuthClient\HmacAuthClient\bin\Debug\net8.0\HmacAuthClient.exe
+D:\Rohan\Study Projects\HmacAuthClient\HmacAuthClient\bin\Debug\net8.0\HmacAuthClient.deps.json
+D:\Rohan\Study Projects\HmacAuthClient\HmacAuthClient\bin\Debug\net8.0\HmacAuthClient.runtimeconfig.json
+D:\Rohan\Study Projects\HmacAuthClient\HmacAuthClient\bin\Debug\net8.0\HmacAuthClient.dll
+D:\Rohan\Study Projects\HmacAuthClient\HmacAuthClient\bin\Debug\net8.0\HmacAuthClient.pdb
+D:\Rohan\Study Projects\HmacAuthClient\HmacAuthClient\obj\Debug\net8.0\HmacAuthClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rohan\Study Projects\HmacAuthClient\HmacAuthClient\obj\Debug\net8.0\HmacAuthClient.AssemblyInfoInputs.cache
+D:\Rohan\Study Projects\HmacAuthClient\HmacAuthClient\obj\Debug\net8.0\HmacAuthClient.AssemblyInfo.cs
+D:\Rohan\Study Projects\HmacAuthClient\HmacAuthClient\obj\Debug\net8.0\HmacAuthClient.csproj.CoreCompileInputs.cache
+D:\Rohan\Study Projects\HmacAuthClient\HmacAuthClient\obj\Debug\net8.0\HmacAuthClient.dll
+D:\Rohan\Study Projects\HmacAuthClient\HmacAuthClient\obj\Debug\net8.0\refint\HmacAuthClient.dll
+D:\Rohan\Study Projects\HmacAuthClient\HmacAuthClient\obj\Debug\net8.0\HmacAuthClient.pdb
+D:\Rohan\Study Projects\HmacAuthClient\HmacAuthClient\obj\Debug\net8.0\HmacAuthClient.genruntimeconfig.cache
+D:\Rohan\Study Projects\HmacAuthClient\HmacAuthClient\obj\Debug\net8.0\ref\HmacAuthClient.dll
