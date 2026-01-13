@@ -1,0 +1,14 @@
+D:\Rohan\Study Projects\PEKtodecryptedTrack2Data\PEKtodecryptedTrack2Data\bin\Debug\net8.0\PEKtodecryptedTrack2Data.exe
+D:\Rohan\Study Projects\PEKtodecryptedTrack2Data\PEKtodecryptedTrack2Data\bin\Debug\net8.0\PEKtodecryptedTrack2Data.deps.json
+D:\Rohan\Study Projects\PEKtodecryptedTrack2Data\PEKtodecryptedTrack2Data\bin\Debug\net8.0\PEKtodecryptedTrack2Data.runtimeconfig.json
+D:\Rohan\Study Projects\PEKtodecryptedTrack2Data\PEKtodecryptedTrack2Data\bin\Debug\net8.0\PEKtodecryptedTrack2Data.dll
+D:\Rohan\Study Projects\PEKtodecryptedTrack2Data\PEKtodecryptedTrack2Data\bin\Debug\net8.0\PEKtodecryptedTrack2Data.pdb
+D:\Rohan\Study Projects\PEKtodecryptedTrack2Data\PEKtodecryptedTrack2Data\obj\Debug\net8.0\PEKtodecryptedTrack2Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rohan\Study Projects\PEKtodecryptedTrack2Data\PEKtodecryptedTrack2Data\obj\Debug\net8.0\PEKtodecryptedTrack2Data.AssemblyInfoInputs.cache
+D:\Rohan\Study Projects\PEKtodecryptedTrack2Data\PEKtodecryptedTrack2Data\obj\Debug\net8.0\PEKtodecryptedTrack2Data.AssemblyInfo.cs
+D:\Rohan\Study Projects\PEKtodecryptedTrack2Data\PEKtodecryptedTrack2Data\obj\Debug\net8.0\PEKtodecryptedTrack2Data.csproj.CoreCompileInputs.cache
+D:\Rohan\Study Projects\PEKtodecryptedTrack2Data\PEKtodecryptedTrack2Data\obj\Debug\net8.0\PEKtodecryptedTrack2Data.dll
+D:\Rohan\Study Projects\PEKtodecryptedTrack2Data\PEKtodecryptedTrack2Data\obj\Debug\net8.0\refint\PEKtodecryptedTrack2Data.dll
+D:\Rohan\Study Projects\PEKtodecryptedTrack2Data\PEKtodecryptedTrack2Data\obj\Debug\net8.0\PEKtodecryptedTrack2Data.pdb
+D:\Rohan\Study Projects\PEKtodecryptedTrack2Data\PEKtodecryptedTrack2Data\obj\Debug\net8.0\PEKtodecryptedTrack2Data.genruntimeconfig.cache
+D:\Rohan\Study Projects\PEKtodecryptedTrack2Data\PEKtodecryptedTrack2Data\obj\Debug\net8.0\ref\PEKtodecryptedTrack2Data.dll
