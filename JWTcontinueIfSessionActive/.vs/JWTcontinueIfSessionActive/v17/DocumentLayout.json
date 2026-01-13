@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Rohan\\Study Projects with Repo\\JWTcontinueIfSessionActive\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D658221C-1747-4FBA-8F16-F281F447FC93}|JWTcontinueIfSessionActive\\JWTcontinueIfSessionActive.csproj|d:\\rohan\\study projects with repo\\jwtcontinueifsessionactive\\jwtcontinueifsessionactive\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D658221C-1747-4FBA-8F16-F281F447FC93}|JWTcontinueIfSessionActive\\JWTcontinueIfSessionActive.csproj|solutionrelative:jwtcontinueifsessionactive\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D658221C-1747-4FBA-8F16-F281F447FC93}|JWTcontinueIfSessionActive\\JWTcontinueIfSessionActive.csproj|d:\\rohan\\study projects with repo\\jwtcontinueifsessionactive\\jwtcontinueifsessionactive\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D658221C-1747-4FBA-8F16-F281F447FC93}|JWTcontinueIfSessionActive\\JWTcontinueIfSessionActive.csproj|solutionrelative:jwtcontinueifsessionactive\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D658221C-1747-4FBA-8F16-F281F447FC93}|JWTcontinueIfSessionActive\\JWTcontinueIfSessionActive.csproj|d:\\rohan\\study projects with repo\\jwtcontinueifsessionactive\\jwtcontinueifsessionactive\\helper\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D658221C-1747-4FBA-8F16-F281F447FC93}|JWTcontinueIfSessionActive\\JWTcontinueIfSessionActive.csproj|solutionrelative:jwtcontinueifsessionactive\\helper\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D658221C-1747-4FBA-8F16-F281F447FC93}|JWTcontinueIfSessionActive\\JWTcontinueIfSessionActive.csproj|d:\\rohan\\study projects with repo\\jwtcontinueifsessionactive\\jwtcontinueifsessionactive\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D658221C-1747-4FBA-8F16-F281F447FC93}|JWTcontinueIfSessionActive\\JWTcontinueIfSessionActive.csproj|solutionrelative:jwtcontinueifsessionactive\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D658221C-1747-4FBA-8F16-F281F447FC93}|JWTcontinueIfSessionActive\\JWTcontinueIfSessionActive.csproj|d:\\rohan\\study projects with repo\\jwtcontinueifsessionactive\\jwtcontinueifsessionactive\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D658221C-1747-4FBA-8F16-F281F447FC93}|JWTcontinueIfSessionActive\\JWTcontinueIfSessionActive.csproj|solutionrelative:jwtcontinueifsessionactive\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Rohan\\Study Projects with Repo\\JWTcontinueIfSessionActive\\JWTcontinueIfSessionActive\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "JWTcontinueIfSessionActive\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Rohan\\Study Projects with Repo\\JWTcontinueIfSessionActive\\JWTcontinueIfSessionActive\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "JWTcontinueIfSessionActive\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-18T05:57:57.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Rohan\\Study Projects with Repo\\JWTcontinueIfSessionActive\\JWTcontinueIfSessionActive\\Program.cs",
+              "RelativeDocumentMoniker": "JWTcontinueIfSessionActive\\Program.cs",
+              "ToolTip": "D:\\Rohan\\Study Projects with Repo\\JWTcontinueIfSessionActive\\JWTcontinueIfSessionActive\\Program.cs",
+              "RelativeToolTip": "JWTcontinueIfSessionActive\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T05:00:14.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Rohan\\Study Projects with Repo\\JWTcontinueIfSessionActive\\JWTcontinueIfSessionActive\\appsettings.json",
+              "RelativeDocumentMoniker": "JWTcontinueIfSessionActive\\appsettings.json",
+              "ToolTip": "D:\\Rohan\\Study Projects with Repo\\JWTcontinueIfSessionActive\\JWTcontinueIfSessionActive\\appsettings.json",
+              "RelativeToolTip": "JWTcontinueIfSessionActive\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-17T05:00:04.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "D:\\Rohan\\Study Projects with Repo\\JWTcontinueIfSessionActive\\JWTcontinueIfSessionActive\\Helper\\JwtService.cs",
+              "RelativeDocumentMoniker": "JWTcontinueIfSessionActive\\Helper\\JwtService.cs",
+              "ToolTip": "D:\\Rohan\\Study Projects with Repo\\JWTcontinueIfSessionActive\\JWTcontinueIfSessionActive\\Helper\\JwtService.cs",
+              "RelativeToolTip": "JWTcontinueIfSessionActive\\Helper\\JwtService.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T04:59:50.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\Rohan\\Study Projects with Repo\\JWTcontinueIfSessionActive\\JWTcontinueIfSessionActive\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "JWTcontinueIfSessionActive\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\Rohan\\Study Projects with Repo\\JWTcontinueIfSessionActive\\JWTcontinueIfSessionActive\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "JWTcontinueIfSessionActive\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAmwGEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T04:59:25.765Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

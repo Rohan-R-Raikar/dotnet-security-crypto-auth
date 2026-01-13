@@ -1,0 +1,19 @@
+﻿@{
+    ViewData["Title"] = "Session Timeout";
+}
+
+@* <meta http-equiv="refresh" content="5;url=@Url.Action("Login", "Account")" /> *@
+
+<h2>Session Expired</h2>
+
+<p style="color:red;">
+    Your session has expired due to inactivity.
+</p>
+
+<p>
+    Please login again to continue.
+</p>
+
+<a asp-controller="Account" asp-action="Login">
+    Go to Login
+</a>

@@ -1,0 +1,38 @@
+﻿@{
+    ViewData["Title"] = "Home";
+}
+
+@if (User.Identity != null && User.Identity.IsAuthenticated)
+{
+    <h2>Welcome</h2>
+    <p>You are successfully logged in.</p>
+    <p><strong>User:</strong> @User.Identity.Name</p>
+
+    <hr />
+
+    <button id="btnClickMe" class="btn btn-primary">Click Me!</button>
+    <div id="message" style="margin-top:10px; color:green;"></div>
+
+    <form asp-controller="Account" asp-action="Logout" method="post" style="margin-top:10px;">
+        <button type="submit" class="btn btn-danger">Logout</button>
+    </form>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script>
+                  $("#btnClickMe").click(function () {
+            $.post("/Account/ButtonClick")
+                .done(function (response) {
+                    $("#message").text(response.message).css("color", "green");
+                })
+                .fail(function () {
+                    $("#message").text("You are not authorized!").css("color", "red");
+                });
+        });
+
+    </script>
+}
+else
+{
+    <h2>Welcome Guest</h2>
+    <p>Please <a asp-controller="Account" asp-action="Login">login</a> to access your account.</p>
+}
