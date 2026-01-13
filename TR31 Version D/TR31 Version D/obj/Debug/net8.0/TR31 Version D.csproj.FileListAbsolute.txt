@@ -1,0 +1,14 @@
+D:\Rohan\Study Projects\TR31 Version D\TR31 Version D\bin\Debug\net8.0\TR31 Version D.exe
+D:\Rohan\Study Projects\TR31 Version D\TR31 Version D\bin\Debug\net8.0\TR31 Version D.deps.json
+D:\Rohan\Study Projects\TR31 Version D\TR31 Version D\bin\Debug\net8.0\TR31 Version D.runtimeconfig.json
+D:\Rohan\Study Projects\TR31 Version D\TR31 Version D\bin\Debug\net8.0\TR31 Version D.dll
+D:\Rohan\Study Projects\TR31 Version D\TR31 Version D\bin\Debug\net8.0\TR31 Version D.pdb
+D:\Rohan\Study Projects\TR31 Version D\TR31 Version D\obj\Debug\net8.0\TR31 Version D.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rohan\Study Projects\TR31 Version D\TR31 Version D\obj\Debug\net8.0\TR31 Version D.AssemblyInfoInputs.cache
+D:\Rohan\Study Projects\TR31 Version D\TR31 Version D\obj\Debug\net8.0\TR31 Version D.AssemblyInfo.cs
+D:\Rohan\Study Projects\TR31 Version D\TR31 Version D\obj\Debug\net8.0\TR31 Version D.csproj.CoreCompileInputs.cache
+D:\Rohan\Study Projects\TR31 Version D\TR31 Version D\obj\Debug\net8.0\TR31 Version D.dll
+D:\Rohan\Study Projects\TR31 Version D\TR31 Version D\obj\Debug\net8.0\refint\TR31 Version D.dll
+D:\Rohan\Study Projects\TR31 Version D\TR31 Version D\obj\Debug\net8.0\TR31 Version D.pdb
+D:\Rohan\Study Projects\TR31 Version D\TR31 Version D\obj\Debug\net8.0\TR31 Version D.genruntimeconfig.cache
+D:\Rohan\Study Projects\TR31 Version D\TR31 Version D\obj\Debug\net8.0\ref\TR31 Version D.dll
